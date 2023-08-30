@@ -52,7 +52,7 @@ export default function Table() {
   };
 
   return (
-    <div>
+    <div id="table-section">
       <div className="uppercon">
         <h1>FILTERS:</h1>
         <div className="firstfilter">
